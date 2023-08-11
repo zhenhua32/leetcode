@@ -53,6 +53,8 @@ https://segmentfault.com/a/1190000043836980
 
 https://cloud.tencent.com/developer/article/2276720
 
+http://www.cyc2018.xyz/%E7%AE%97%E6%B3%95/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.html#%E6%8E%92%E5%BA%8F
+
 注意事项:
 
 1. 熟悉下牛客网的 ACM 模式.
