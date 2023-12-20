@@ -59,6 +59,9 @@ http://www.cyc2018.xyz/%E7%AE%97%E6%B3%95/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98
 
 1. 熟悉下牛客网的 ACM 模式.
 
+https://github.com/doocs/leetcode/tree/main
+这个库里包含 leetcode 的题解, 看起来应该是挺全的, 当 leetcode 没开会员时, 可以看这个, 不然连题目都看不了.
+
 # 视频
 
 https://www.bilibili.com/video/BV13g41157hK/?spm_id_from=333.337.search-card.all.click&vd_source=73435d51db686ef724f0bc84c1d67328
