@@ -2,6 +2,8 @@ import unittest
 
 
 class Stack:
+    """将列表的最后一个元素当作栈的顶端"""
+
     def __init__(self):
         self.items = []
 
@@ -27,8 +29,8 @@ class TestStack(unittest.TestCase):
         s = Stack()
         self.assertTrue(s.is_empty())
         s.push(4)
-        s.push('dog')
-        self.assertEqual(s.peek(), 'dog')
+        s.push("dog")
+        self.assertEqual(s.peek(), "dog")
         s.push(True)
         self.assertEqual(s.size(), 3)
         self.assertFalse(s.is_empty())
